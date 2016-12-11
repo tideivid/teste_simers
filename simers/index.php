@@ -1,5 +1,24 @@
 <?php
-	include 'config/config.php';
 	include 'functions/functions.php';
-	exibe_dados();
 ?>
+<html>
+	<head>
+		<title>Teste Simers</title>
+		<meta charset="utf-8">
+		<link rel="stylesheet" type="text/css" href="css/estilo.css">
+	</head>
+	<body>
+		<div>
+			<div class="simers"></div>
+			<?php
+				exibe_dados();
+			?>
+		</div>
+	</body>
+</html>
+
+
+
+
+
+

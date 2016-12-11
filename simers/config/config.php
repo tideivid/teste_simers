@@ -4,6 +4,6 @@
 		XML = 0;
 		Banco de Dados = 1
 	*/
-		$persistencia = 0;
+		$persistencia = 1;
 
 ?>
